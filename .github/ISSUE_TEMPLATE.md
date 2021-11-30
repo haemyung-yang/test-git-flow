@@ -8,4 +8,4 @@
 
 ## Screenshots
 
-## Detail
+## Details
