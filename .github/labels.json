@@ -35,6 +35,16 @@
     "description": "질문있습니다!!"
   },
   {
+    "name": "💯 Review Completed",
+    "color": "00FB2A",
+    "description": "리뷰완료 했습니다."
+  },
+  {
+    "name": "🔇 Review Not Required",
+    "color": "000000",
+    "description": "리뷰없이 Self Merge 합니다."
+  },
+  {
     "name": "👀 Review Needed",
     "color": "F23920",
     "description": "리뷰어의 리뷰가 필요합니다!!"
